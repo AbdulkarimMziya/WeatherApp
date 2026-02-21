@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		4D5122712F49A3AB00638FF7 /* Exceptions for "WeatherApp" folder in "WeatherApp" target */ = {
+		4D5122A02F49C42B00638FF7 /* Exceptions for "WeatherApp" folder in "WeatherApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4D5122612F49A3AA00638FF7 /* WeatherApp */ = {
+		4D51229B2F49C42B00638FF7 /* WeatherApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				4D5122712F49A3AB00638FF7 /* Exceptions for "WeatherApp" folder in "WeatherApp" target */,
+				4D5122A02F49C42B00638FF7 /* Exceptions for "WeatherApp" folder in "WeatherApp" target */,
 			);
 			path = WeatherApp;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		4D5122562F49A3AA00638FF7 = {
 			isa = PBXGroup;
 			children = (
-				4D5122612F49A3AA00638FF7 /* WeatherApp */,
+				4D51229B2F49C42B00638FF7 /* WeatherApp */,
 				4D5122602F49A3AA00638FF7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4D5122612F49A3AA00638FF7 /* WeatherApp */,
+				4D51229B2F49C42B00638FF7 /* WeatherApp */,
 			);
 			name = WeatherApp;
 			packageProductDependencies = (
